@@ -1,4 +1,6 @@
-# frontend
+## Build a Blog Using Django, Vue, and GraphQL
+
+[The tutorial](https://realpython.com/python-django-blog/)
 
 ## Project setup
 ```
@@ -24,6 +26,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-## Build a Blog Using Django, Vue, and GraphQL
 
-[The tutorial](https://realpython.com/python-django-blog/)
