@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Build a Blog Using Django, Vue, and GraphQL
+
+[The tutorial](https://realpython.com/python-django-blog/)
